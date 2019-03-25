@@ -1,10 +1,10 @@
 ---
-bg: "tag.jpg"
+bg: "portfolio neo.jpg"
 layout: page
 permalink: /posts/
-title: "Archive"
-crawlertitle: "All articles"
-summary: "Posts about jekyll"
+title: "Portfolio"
+crawlertitle: "All Work"
+summary: "All work"
 active: archive
 ---
 
