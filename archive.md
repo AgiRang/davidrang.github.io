@@ -5,7 +5,7 @@ permalink: /posts/
 title: "Portfolio"
 crawlertitle: "All Work"
 summary: "All work"
-active: archive
+active: portfolio
 ---
 
 {% for tag in site.tags %}

@@ -34,15 +34,15 @@ If page contains `active` tag, it will be show on site menu.
 ```
 ---
 layout: page
-title: "About"
-permalink: /about/
-active: about
+title: "introduce"
+permalink: /introduce/
+active: introduce
 ---
 ```
 
-**Archive**
+**portfolio**
 
-Archive page is sorting posts by tags. No more than one tag in one post.
+portfolio page is sorting posts by tags. No more than one tag in one post.
 
 Good:
 

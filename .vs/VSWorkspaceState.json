@@ -6,8 +6,10 @@
     "\\assets\\images",
     "\\assets\\js",
     "\\assets\\_sass",
+    "\\_includes",
+    "\\_layouts",
     "\\_posts"
   ],
-  "SelectedNode": "\\feed.xml",
+  "SelectedNode": "\\_layouts\\compress.html",
   "PreviewInSolutionExplorer": false
 }
