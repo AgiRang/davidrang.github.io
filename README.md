@@ -17,7 +17,7 @@ bg: '2016/background.jpg'
 title: "Post Heading"
 crawlertitle: "page title"
 summary: "post description"
-date: 2016-06-29
+date: 2019-03-21
 tags : ['front-end']
 slug: post-url
 author: "Author"
